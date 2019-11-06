@@ -1,0 +1,6 @@
+Name,Value
+DropoffType,REGULAR_PICKUP
+ServiceType,FEDEX_GROUND
+PackagingType,YOUR_PACKAGING
+PaymentType,SENDER
+PartitionSize,50
